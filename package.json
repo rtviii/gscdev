@@ -1,0 +1,19 @@
+{
+  "name": "gsc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetch_and_load_id.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  },
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/jest": "^27.0.3",
+    "axios": "^0.24.0"
+  }
+}
